@@ -34,10 +34,9 @@
 <h1 align="center"></h1>
 
 ###
-<div align="left">
+
 <div align="left">
 <h3 align="left"> Glad to see you here!</h3>
-<img align="right" width="350" src="https://img.freepik.com/free-vector/hand-drawn-web-developers_23-2148819604.jpg?w=996&t=st=1696155688~exp=1696156288~hmac=2ebcc4975db0a5c3d66af5b2a6b2172f08cf2e94104bea5aad8173d8d640263b" alt="Snake animation" />
 
 ###
 
@@ -50,7 +49,7 @@
 <h1 align="center"></h1>
 </div>
 
-</div>
+
 
 ###
 
